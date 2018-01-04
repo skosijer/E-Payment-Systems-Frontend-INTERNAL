@@ -1,0 +1,202 @@
+.ui-steps .ui-steps-item {
+            width: 25%;
+        }
+
+        .ui-steps.steps-custom {
+            margin-bottom: 30px;
+        }
+
+        .ui-steps.steps-custom .ui-steps-item .ui-menuitem-link {
+            height: 10px;
+            padding: 0 1em;
+        }
+
+        .ui-steps.steps-custom .ui-steps-item .ui-steps-number {
+            background-color: #ff928e;
+            color: #FFFFFF;
+            display: inline-block;
+            width: 36px;
+            border-radius: 50%;
+            margin-top: -14px;
+            margin-bottom: 10px;
+        }
+
+        .ui-steps.steps-custom .ui-steps-item .ui-steps-title {
+            color: #555555;
+            font-family: Impact;
+        }
+
+
+
+
+
+.col-lg-3 {
+    text-align: right;
+}
+
+.pocetakOsiguranjaCalendarClass input{
+  width: 370px;
+}
+
+
+.step-1-form .ui-spinner .ui-spinner-input{
+  width: 400px;
+}
+
+
+
+body {
+    color: #55535b;
+    font-family: Lato;
+    font-weight: 800;
+}
+
+.col-lg-4 .ui-dropdown-label {
+    color: #0081c2;
+    text-align: left;
+}
+
+.col-lg-4 .ui-dropdown-item {
+    color: #0081c2;
+    text-align: left;
+}
+
+
+.ui-spinner-input {
+    color: #0081c2;
+}
+
+.ui-button-warning {
+    width: 150px;
+    height: 40px;
+    border-radius: 12px;
+    font-family: 'Lato';
+    font-weight: 200;
+}
+
+.calendar1StyleClass {
+    width: 304px;
+}
+
+.forms-container{
+  background-image: url("../../../images/luda-slika3.svg");
+  background-size: cover;
+  height: 100%;
+  margin-top: 20px;
+  min-height: 600px;
+}
+
+/*POMOZI BOZE*/
+
+.text-danger strong {
+  color: #007bff;
+}
+.receipt-main {
+  background: #ffffff none repeat scroll 0 0;
+  border-bottom: 12px solid #333333;
+  border-top: 12px solid #007bff;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 40px 30px !important;
+  position: relative;
+  box-shadow: 0 1px 21px #acacac;
+  color: #333333;
+  font-family: open sans;
+}
+.receipt-main p {
+  color: #333333;
+  font-family: open sans;
+  line-height: 1.42857;
+}
+.receipt-footer h1 {
+  font-size: 15px;
+  font-weight: 400 !important;
+  margin: 0 !important;
+}
+.receipt-main::after {
+  background: #414143 none repeat scroll 0 0;
+  content: "";
+  height: 5px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: -13px;
+}
+.receipt-main thead {
+  background: #414143 none repeat scroll 0 0;
+}
+.receipt-main thead th {
+  color:#fff;
+}
+.receipt-right h5 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0 0 7px 0;
+}
+.receipt-right p {
+  font-size: 12px;
+  margin: 0px;
+}
+.receipt-right p i {
+  text-align: center;
+  width: 18px;
+}
+.receipt-main td {
+  padding: 9px 20px !important;
+}
+.receipt-main th {
+  padding: 13px 20px !important;
+}
+.receipt-main td {
+  font-size: 13px;
+  font-weight: initial !important;
+}
+.receipt-main td p:last-child {
+  margin: 0;
+  padding: 0;
+}
+.receipt-main td h2 {
+  font-size: 20px;
+  font-weight: 900;
+  margin: 0;
+  text-transform: uppercase;
+}
+.receipt-header-mid .receipt-left h1 {
+  font-weight: 100;
+  margin: 34px 0 0;
+  text-align: right;
+  text-transform: uppercase;
+}
+.receipt-header-mid {
+  margin: 24px 0;
+  overflow: hidden;
+}
+
+.checkboxStyle{
+  float: left;
+}
+
+
+.box-shadow { box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14),
+0 1px 5px 0 rgba(0,0,0,0.12),
+0 3px 1px -2px rgba(0,0,0,0.2);
+  background: white;
+}
+
+.step1_button_div .ui-dialog-titlebar{
+  background: red;
+  color: white;
+}
+
+.control-label.required:after { 
+  color: #d00;
+  content: "*";
+  position: absolute;
+  margin-left: 5px;
+  top:-5px;
+}
+
+
+
+
+

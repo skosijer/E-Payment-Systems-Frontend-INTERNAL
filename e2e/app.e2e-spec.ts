@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('e-payment-systems-frontend-internal App', () => {
+describe('e-payment-systems-frontend App', () => {
   let page: AppPage;
 
   beforeEach(() => {
