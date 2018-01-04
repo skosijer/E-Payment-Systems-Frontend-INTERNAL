@@ -1,4 +1,3 @@
-import { JmbgValidators } from './../validators/jmbg.validators';
 import { Component, OnInit, ViewEncapsulation } from '@angular/core';
 import { MenuItem } from 'primeng/primeng';
 import { SelectItem } from 'primeng/primeng';
